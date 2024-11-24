@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Tekla Toth
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Tekla
+last_name: Toth
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Researcher in Computer Vision
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: ELTE & Bosch
+    url: https://mi.inf.elte.hu/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -33,27 +33,27 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+#  - icon: brands/x
+#    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/tekla_toth_/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/tothtekla
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/teklatoth/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.hu/citations?user=u7xv-ZkAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-7439-0473
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Sensor Fusion
+  - 2D-3D Data Analysis
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD in Computer Vision
+    institution: ELTE
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
