@@ -11,7 +11,7 @@ last_name: Toth
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🚲
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,8 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-#  - icon: brands/x
-#    url: https://twitter.com/GetResearchDev
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Tekla-Toth
   - icon: brands/instagram
     url: https://www.instagram.com/tekla_toth_/
   - icon: brands/github
