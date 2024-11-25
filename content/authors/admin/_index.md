@@ -31,20 +31,20 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: academicons/researchgate
-    url: https://www.researchgate.net/profile/Tekla-Toth
-  - icon: brands/instagram
-    url: https://www.instagram.com/tekla_toth_/
-  - icon: brands/github
-    url: https://github.com/tothtekla
+    url: 'mailto:tekla.toth.it@gmail.com'
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/teklatoth/
+    label: E-mail Me
   - icon: academicons/google-scholar
     url: https://scholar.google.hu/citations?user=u7xv-ZkAAAAJ&hl=en
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Tekla-Toth
+  - icon: brands/github
+    url: https://github.com/tothtekla
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-7439-0473
+  - icon: brands/instagram
+    url: https://www.instagram.com/tekla_toth_/
 
 interests:
   - Computer Vision
@@ -142,12 +142,13 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Hungarian
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 90
+  - name: German
+    percent: 50
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
